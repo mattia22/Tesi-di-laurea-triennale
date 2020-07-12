@@ -56,7 +56,7 @@ def baseline_model():
 	model.compile(loss='mean_squared_error', optimizer='adam')
 	return model
 
-# evaluate model with standardized dataset
+# training e valutazione del modello
 estimators = []
 estimators.append(('standardize', StandardScaler()))
 estimators.append(('mlp', KerasRegressor(build_fn=baseline_model, epochs=10, batch_size=5, verbose=1)))
