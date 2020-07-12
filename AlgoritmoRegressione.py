@@ -59,9 +59,9 @@ def baseline_model():
 # training e valutazione del modello
 estimators = []
 estimators.append(('standardize', StandardScaler()))
-estimators.append(('mlp', KerasRegressor(build_fn=baseline_model, epochs=10, batch_size=5, verbose=1)))
+estimators.append(('mlp', KerasRegressor(build_fn=baseline_model, epochs=50, batch_size=5, verbose=1)))
 pipeline = Pipeline(estimators)
-kfold = KFold(n_splits=10)
+kfold = KFold(n_splits=10,shuffle = True)
 results = cross_val_score(pipeline, X, Y, cv=kfold)
 print("Standardized: %.2f (%.2f) MSE" % (results.mean(), results.std()))
 results
