@@ -1,0 +1,215 @@
+eventName,time,subjectName,objectBehavior
+ObjectHasChangedBehavior,2020-06-09 16:07:19:565,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:19:565,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:19:567,Laura,null
+ObjectHasChangedBehavior,2020-06-09 16:07:19:567,Laura,null
+PersonEntersZone,2020-06-09 16:07:19:569,Indoor,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:19:569,Indoor,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:19:570,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:19:570,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 16:07:22:567,Minetto,null
+PersonExitsZone,2020-06-09 16:07:22:567,Garage,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:07:22:567,Garage,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:22:567,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:22:567,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 16:07:22:567,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:25:566,Laura,null
+ObjectHasChangedBehavior,2020-06-09 16:07:25:566,Laura,null
+PersonEntersZone,2020-06-09 16:07:25:566,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:25:566,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 16:07:25:566,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 16:07:25:566,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 16:07:25:576,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:25:576,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:28:566,Laura,null
+ObjectHasChangedBehavior,2020-06-09 16:07:28:566,Laura,null
+PersonExitsZone,2020-06-09 16:07:28:567,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 16:07:28:567,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:28:567,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:28:567,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 16:07:31:569,Laura,null
+ObjectHasChangedBehavior,2020-06-09 16:07:31:569,Laura,null
+PersonEntersZone,2020-06-09 16:07:31:570,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:31:570,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 16:07:31:571,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 16:07:31:571,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 16:07:35:567,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:35:567,Minetto,null
+PersonExitsZone,2020-06-09 16:07:35:568,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:07:35:568,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:35:568,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:35:568,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 16:07:38:570,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:38:570,Minetto,null
+PersonEntersZone,2020-06-09 16:07:38:570,Kitchen,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:38:570,Kitchen,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:07:38:570,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:07:38:570,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 16:07:48:572,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:48:572,Minetto,null
+PersonEntersZone,2020-06-09 16:07:48:572,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:48:572,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 16:07:49:571,Laura,null
+ObjectHasChangedBehavior,2020-06-09 16:07:49:571,Laura,null
+PersonEntersZone,2020-06-09 16:07:49:571,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:49:571,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 16:07:49:571,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 16:07:49:571,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 16:07:53:573,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:53:573,Minetto,null
+PersonExitsZone,2020-06-09 16:07:53:573,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:07:53:573,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:53:573,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:53:573,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 16:07:54:571,Laura,null
+ObjectHasChangedBehavior,2020-06-09 16:07:54:571,Laura,null
+PersonExitsZone,2020-06-09 16:07:54:572,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 16:07:54:572,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:54:572,Bathroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:54:572,Bathroom,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 16:07:57:573,Laura,null
+ObjectHasChangedBehavior,2020-06-09 16:07:57:573,Laura,null
+PersonEntersZone,2020-06-09 16:07:57:573,Bedroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:07:57:573,Bedroom,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 16:07:58:573,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:07:58:573,Minetto,null
+PersonEntersZone,2020-06-09 16:07:58:574,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:07:58:574,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:07:58:574,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:07:58:574,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 16:08:01:575,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 16:08:01:575,Minetto,null
+PersonEntersZone,2020-06-09 16:08:01:575,Bedroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 16:08:01:575,Bedroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:08:01:575,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 16:08:01:575,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 16:08:07:575,Laura,null
+ObjectHasChangedBehavior,2020-06-09 16:08:07:575,Laura,null
+PersonEntersZone,2020-06-09 16:08:07:575,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 16:08:07:575,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 17:20:01:420,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:01:420,Minetto,null
+PersonExitsZone,2020-06-09 17:20:01:420,Bedroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:01:420,Bedroom,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:01:420,Minetto,null
+PersonEntersZone,2020-06-09 17:20:01:420,Garage,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:01:420,Garage,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:01:420,Bedroom,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:01:423,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:01:423,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:01:423,Laura,null
+PersonEntersZone,2020-06-09 17:20:01:420,Garage,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:04:421,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:04:421,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:04:421,Minetto,null
+PersonEntersZone,2020-06-09 17:20:04:421,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:04:421,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:04:421,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:04:421,Garage,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:04:421,Garage,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:04:421,Garage,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:07:422,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:07:422,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:07:422,Laura,null
+PersonEntersZone,2020-06-09 17:20:07:424,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:07:424,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:07:424,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 17:20:07:425,Minetto,nullPersonExitsZone,2020-06-09 17:20:07:424,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 17:20:07:425,Minetto,nullObjectHasChangedBehavior,2020-06-09 17:20:07:425,Minetto,null
+PersonEntersZone,2020-06-09 17:20:07:424,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:07:424,Dress room,34486de5-8731-4e5a-908f-dc1bf25db124
+
+
+ObjectHasChangedBehavior,2020-06-09 17:20:10:423,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:10:423,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:10:423,Laura,null
+PersonExitsZone,2020-06-09 17:20:10:423,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:10:423,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:10:423,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:10:423,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:10:423,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:10:423,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 17:20:13:425,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:13:425,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:13:425,Laura,null
+PersonEntersZone,2020-06-09 17:20:13:426,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:13:426,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:13:426,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:13:426,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:13:426,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:13:426,Utility room,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 17:20:17:424,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:17:424,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:17:424,Minetto,null
+PersonExitsZone,2020-06-09 17:20:17:425,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:17:425,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:17:425,Livingroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:17:425,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:17:425,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:17:425,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:20:426,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:20:426,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:20:426,Minetto,null
+PersonEntersZone,2020-06-09 17:20:20:427,Kitchen,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:20:427,Kitchen,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:20:427,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:20:427,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:20:427,Kitchen,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:20:427,Dress room,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:30:429,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:30:429,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:30:429,Minetto,null
+PersonEntersZone,2020-06-09 17:20:30:429,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:30:429,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:30:429,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:31:428,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:31:428,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:31:428,Laura,null
+PersonEntersZone,2020-06-09 17:20:31:429,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:31:429,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:31:429,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:31:429,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:31:429,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:31:429,Kitchen,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 17:20:35:431,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:35:431,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:35:431,Minetto,null
+PersonExitsZone,2020-06-09 17:20:35:431,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:35:431,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:35:431,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:35:431,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:35:431,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:35:431,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:36:428,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:36:428,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:36:428,Laura,null
+PersonExitsZone,2020-06-09 17:20:36:429,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:36:429,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonExitsZone,2020-06-09 17:20:36:429,Livingroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:36:429,Bathroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:36:429,Bathroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:36:429,Bathroom,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 17:20:39:430,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:39:430,Laura,null
+ObjectHasChangedBehavior,2020-06-09 17:20:39:430,Laura,null
+PersonEntersZone,2020-06-09 17:20:39:430,Bedroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:39:430,Bedroom,34486de5-8731-4e5a-908f-dc1bf25db124
+PersonEntersZone,2020-06-09 17:20:39:430,Bedroom,34486de5-8731-4e5a-908f-dc1bf25db124
+ObjectHasChangedBehavior,2020-06-09 17:20:40:431,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:40:431,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:40:431,Minetto,null
+PersonEntersZone,2020-06-09 17:20:40:432,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:40:432,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:40:432,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:40:432,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:40:432,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:40:432,Bathroom,067abaec-0786-4e52-a4af-2b55cf30e944
+ObjectHasChangedBehavior,2020-06-09 17:20:43:433,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:43:433,Minetto,null
+ObjectHasChangedBehavior,2020-06-09 17:20:43:433,Minetto,null
+PersonEntersZone,2020-06-09 17:20:43:433,Bedroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:43:433,Bedroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonEntersZone,2020-06-09 17:20:43:433,Bedroom,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:43:433,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:43:433,Office,067abaec-0786-4e52-a4af-2b55cf30e944
+PersonExitsZone,2020-06-09 17:20:43:433,Office,067abaec-0786-4e52-a4af-2b55cf30e944
